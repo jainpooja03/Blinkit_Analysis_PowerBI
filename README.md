@@ -39,6 +39,7 @@ Through data analysis, we derived the following key insights:
 ```
 
 ## 📸 Dashboard Screenshots
+https://github.com/Khushi-Bafana/Blinkit_Analysis_PowerBI/blob/main/Output.png
 
 ## 🚀 Future Enhancements
 - Integration of real-time sales data.
