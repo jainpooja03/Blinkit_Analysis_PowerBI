@@ -1,5 +1,7 @@
 # BlinkIT Grocery Data Analysis
 
+![Alt text](https://github.com/Khushi-Bafana/Blinkit_Analysis_PowerBI/blob/main/Output.png)
+
 ## 📌 Project Overview
 This project analyzes grocery sales data from BlinkIT, an online grocery delivery service. The goal is to derive insights from the data using Power BI and Excel to understand customer purchasing patterns, product performance, and sales trends. The insights derived from this analysis can help improve business decisions, optimize inventory, and enhance customer experience.
 
